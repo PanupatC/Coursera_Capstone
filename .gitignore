@@ -1,7 +1,6 @@
 /.vscode
-gecko.zip
-geckodriver.exe
-geckodriver.log
-Canada_Postal.csv
-coords.csv
-fsquare.txt
+*.zip
+*.exe
+*.log
+*.txt
+*.csv
